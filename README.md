@@ -1,5 +1,5 @@
 ## Another Memory Game :)
-- This is a simple memory game.
+- This is a just a memory game.
 - Counts moves and save the high score.
 
 ### Created whit
