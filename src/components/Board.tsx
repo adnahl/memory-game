@@ -84,7 +84,7 @@ function Board(props: BoardProps) {
       {props.cardIds.map(i => {
         return <Card
           key={i}
-          image={`/images/${i % 6 + 1}.png`}
+          image={`/images/${i % 6 + 1}.jpg`}
           id={i}
           isDisabled={shouldDisableAllCards}
           isInactive={checkIsInactive(i)}
